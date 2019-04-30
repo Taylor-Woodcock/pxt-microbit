@@ -8,7 +8,7 @@ declare namespace radio {
     /**
      * Sends an event over radio to neigboring devices
      */
-    //% blockId=radioRaiseEvent block="radio raise event|from source %src=control_event_source_id|with value %value=control_event_value_id" 
+    //% blockId=radioRaiseEvent block="radio raise event|from source %src=control_event_source_id|with value %value=control_event_value_id"
     //% blockExternalInputs=1
     //% advanced=true
     //% weight=1
@@ -25,8 +25,9 @@ declare namespace radio {
 
     /**
      * Broadcasts a name / value pair along with the device serial number
-     * and running time to any connected micro:bit in the group.
-     * @param name the field name (max 12 characters), eg: "name"
+     * and running time to any connected micro:bit in the group. The name can
+     * include no more than 8 characters.
+     * @param name the field name (max 8 characters), eg: "name"
      * @param value the numeric value
      */
     //% help=radio/send-value
