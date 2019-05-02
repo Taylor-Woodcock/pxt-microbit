@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85998288-2405-4ff0-a193-269bf0154c9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/energy-use/appliances.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/energy-use/appliances.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/energy-use/checklist.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/energy-use/checklist.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/energy-use/conclusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/energy-use/conclusion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/energy-use/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/energy-use/introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/energy-use/schools.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/energy-use/schools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-faces.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-faces.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-mix-data.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-mix-data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/competition.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/competition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/conclusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/conclusion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/generation-mix/introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/global-warming/climate-effects.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/global-warming/climate-effects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/global-warming/conclusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/global-warming/conclusion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/global-warming/how-we-can-reduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/global-warming/how-we-can-reduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/global-warming/plants-animals-humans.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/global-warming/plants-animals-humans.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/energy/global-warming/weather-patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/energy/global-warming/weather-patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorials.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorials.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxtarget.json" beforeDir="false" afterPath="$PROJECT_DIR$/pxtarget.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tutorials/door-open-close.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="539">
+                <caret line="53" selection-end-line="53" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/tutorials/energy-meter.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="318">
+                <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tutorials/fossil-fuel-lightbulb.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="289">
+                <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="125" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tutorials.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="468">
+                <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Courses</find>
+      <find>•</find>
+      <find>courses</find>
+      <find>Flashing Heart</find>
+      <find>index.html</find>
+      <find>/eis/projects/</find>
+      <find>New? Start Here!</find>
+      <find>FAQ</find>
+      <find>tutorials</find>
+      <find>#5C005C</find>
+      <find>social</find>
+      <find>twitter</find>
+      <find>footer</find>
+      <find>UCye7YlvFUUQ1dSy0WZZ1T_Q</find>
+      <find>edit</find>
+      <find>thead</find>
+      <find>table</find>
+      <find>3232</find>
+      <find>samsung</find>
+      <find>searc</find>
+      <find>bing.com</find>
+      <find>tape</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>*</replace>
+      <replace>lessons</replace>
+      <replace>/eis/tutorials/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\git\pxt-microbit\docs</dir>
+      <dir>C:\git\pxt-microbit</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docs/lessons/energy/about.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/wherefrom.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/wherefrom/introduction.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/wherefrom/sources.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/wherefrom/prosandcons.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/wherefrom/conclusion.md" />
+        <option value="$PROJECT_DIR$/docs/projects/door-open-close.md" />
+        <option value="$PROJECT_DIR$/built/theme.json" />
+        <option value="$PROJECT_DIR$/docs/tutorials/door-open-close.md" />
+        <option value="$PROJECT_DIR$/docs/docs.md" />
+        <option value="$PROJECT_DIR$/docs/projects/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/targetconfig.json" />
+        <option value="$PROJECT_DIR$/docs/tutorials/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/where-from/conclusion.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/where-from/introduction.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/where-from/pros-and-cons.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/where-from/sources.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/where-from.md" />
+        <option value="$PROJECT_DIR$/built/web/semantic.css" />
+        <option value="$PROJECT_DIR$/theme/site/views/statistic.overrides" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use.md" />
+        <option value="$PROJECT_DIR$/docs/projects.md" />
+        <option value="$PROJECT_DIR$/docs/tutorials/fossil-fuel-lightbulb.md" />
+        <option value="$PROJECT_DIR$/docs/lessons.md" />
+        <option value="$PROJECT_DIR$/pxtarget.json" />
+        <option value="$PROJECT_DIR$/docs/lessons/iot.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/champion.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming/plants-animals-humans.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming/weather-patterns.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming/how-we-can-reduce.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming/conclusion.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/global-warming/climate-effects.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use/introduction.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use/appliances.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use/checklist.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use/conclusion.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/energy-use/schools.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-faces.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix/introduction.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-mix-data.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix/competition.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix/conclusion.md" />
+        <option value="$PROJECT_DIR$/docs/lessons/energy/generation-mix.md" />
+        <option value="$PROJECT_DIR$/docs/tutorials/energy-meter-simplified.md" />
+        <option value="$PROJECT_DIR$/docs/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/docs/tutorials.md" />
+        <option value="$PROJECT_DIR$/docs/tutorials/energy-meter.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-28" />
+    <option name="y" value="-8" />
+    <option name="width" value="1918" />
+    <option name="height" value="1158" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="eis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="eis" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="eis" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="energy-meter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pxt-microbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pxt-microbit" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\pxt-microbit\docs\static\eis\tutorials\energy-meter" />
+      <recent name="C:\git\pxt-microbit\docs\static\eis\tutorials\fossil-fuel-lightbulb" />
+      <recent name="C:\git\pxt-microbit\docs\static\eis\tutorials\#" />
+      <recent name="C:\git\pxt-microbit\docs\tutorials" />
+      <recent name="C:\git\pxt-microbit\docs\projects\tutorials" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\pxt-microbit\docs\lessons\energy\generation-mix" />
+      <recent name="C:\git\pxt-microbit\docs\lessons\energy\energy-use" />
+      <recent name="C:\git\pxt-microbit\docs\lessons\energy\global-warming" />
+      <recent name="C:\git\pxt-microbit\docs\static\eis\lessons\icons" />
+      <recent name="C:\git\pxt-microbit\docs\static\eis\lessons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85998288-2405-4ff0-a193-269bf0154c9f" name="Default Changelist" comment="" />
+      <created>1555424301647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555424301647</updated>
+      <workItem from="1555424304312" duration="12689000" />
+      <workItem from="1556188238222" duration="44847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22655427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3240652" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/pxt-core/docfiles/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/pxt-core/docs/blog/bett/01-22-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1156">
+            <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/google3d219bbbeb8dbd2f.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/offline-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/static/eis/lessons/icons/word-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/static/icons/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/where-from/pros-and-cons.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/where-from/introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/where-from.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="349">
+            <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/site/views/statistic.variables">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/site/views/statistic.overrides">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="77" column="83" selection-start-line="77" selection-start-column="78" selection-end-line="77" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/site/elements/input.overrides">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/theme.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/built/web/semantic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="171" column="371" lean-forward="true" selection-start-line="171" selection-start-column="356" selection-end-line="171" selection-end-column="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="471">
+            <caret line="34" selection-start-line="34" selection-end-line="38" selection-end-column="98" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxtarget.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="277" column="19" selection-start-line="277" selection-start-column="19" selection-end-line="277" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/targetconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/pxt-core/docfiles/tocheader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs_help/cli/serve.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="340">
+            <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/iot.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="522">
+            <caret line="47" column="73" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming/how-we-can-reduce.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="157">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming/plants-animals-humans.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="372">
+            <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming/weather-patterns.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/static/eis/lessons/energy/global-warming/climate-change.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming/climate-effects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="83">
+            <caret line="58" column="109" lean-forward="true" selection-start-line="58" selection-start-column="109" selection-end-line="58" selection-end-column="109" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/global-warming/conclusion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="539">
+            <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/where-from/conclusion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use/introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use/checklist.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/champion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use/appliances.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use/conclusion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/energy-use/schools.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/where-from/sources.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix/introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-faces.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix/coding-mix-data.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix/competition.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix/conclusion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/lessons/energy/generation-mix.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials/door-open-close.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="539">
+            <caret line="53" selection-end-line="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials/fossil-fuel-lightbulb.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="125" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials/energy-meter.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="318">
+            <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,68 +2,71 @@
 
 ![Placeholder](/static/eis/lessons/placeholder_640x360.png)
 
+## Resources
+
+### Energy lets save it (3:39) - fun cartoon video for all ages.
+
+A family is carelessly and unknowingly wasting energy from the moment they wake up. Until something unexpectedly happens.  Can lead into discussion about what the family is doing to reduce energy e.g. changing light bulbs, turning down the room thermostat temperature, using a bus not cars
+https://www.youtube.com/watch?v=1-g73ty9v04 
+
+
+### TED Ed - Climate change: Earth's giant game of Tetris (2:49) – A bit more advanced
+
+There's a game of Tetris happening on a global scale: The playing space is planet Earth, and all those pesky, stacking blocks represent carbon dioxide -- a greenhouse gas that is piling up ever more rapidly as we burn the fossil fuels that run our cars, factories and power plants. Joss Fong outlines how this overload of CO2 leads to climate change and reminds us that, unlike Tetris, we won't get an opportunity to start over and try again.
+https://ed.ted.com/lessons/climate-change-earth-s-giant-game-of-tetris-joss-fong#watch
+https://www.youtube.com/watch?v=ztWHqUFJRTs
+
+### Climate change, according to a kid aged 12 (2:11) – A bit more advanced
+
+Lovely animation made in 2015 about climate change. References the Paris Agreement in 2015.
+https://youtu.be/Sv7OHfpIRfU 
+
+
+### NASA website Climate kids
+
+Lots of games / interesting factoids to teach pupils about climate change.
+https://climatekids.nasa.gov/
+
+
 ## Objective
 
-**This follows on from the previous lesson.**
-
-To understand the process of global warming as caused by greenhouse gases from the burning of fossil fuels and its effect on the earth’s climate and weather patterns.
-
+Revisit the success criteria with pupils and check for any questions.
 
 ## Procedures
 
-### Fuel types, fossil fuels
+Ask pupils to work in pairs or small groups and write in their books the answers to the 5 questions.
 
-The last lesson briefly touched on greenhouse gases, with the description below. You may want to do a quick recap on the pros and cons of fossil fuels and renewables if lessons are not delivered close together.
+Briefly go over the answers with them.
 
-'**Greenhouse gases**, just like being in a greenhouse, create a warm environment. Examples of a greenhouse gases are **carbon dioxide and methane** (Carbon dioxide is released from burning fossil fuels. Methane occurs naturally but also is produced at landfill sites (rubbish dumps) and from livestock farming).'
+What did they find out that was new to them?
 
-Show the power station slide. Ask pupils WHAT is the problem with greenhouse gases?
+Check if they have any questions.
 
-'**Greenhouse** gases create a warm environment because they go up into the atmosphere and wrap round the earth like a blanket.  The sun’s heat is absorbed into the dark earth surface, but it can’t all escape back out because of this blanket of gases.  The world is **heating up** as a result. This is called **global warming**.
-**Greenhouse gases stay around for a long time – some for hundreds of years – so what we do now has a big impact on the future temperature and life on this planet.'**
+## Potential Curriculum Connections
 
-## ~ hint
-Show the global warming diagram slide.  
+You might want to add extension activities on related curriculum areas like:
 
-This is a fun way to explore it.
+### KS3 Biology – relationships in an ecosystem
+* Explore the interdependence of organisms in an ecosystem, including food webs and insect pollinated crops 
+* Explore further why insect pollinators are vital for plant reproduction and in human food security
+* Consider the importance of how organisms affect, and are affected by, their environment, including the accumulation of toxic materials.
 
-**Resources**: Bubble wrap, space blanket or ordinary blanket.  Toy penguin and polar bear or printed A5 images of them and sellotape.
-## ~
+E.g. What is a toxic material (carbon dioxide occurs naturally. When does it become toxic?)
+What other toxic materials are there? (plastics, air pollution, chemical pollutants).
 
-Ask for one volunteer to come to the front of the class. They are going to represent the world. The bubble wrap/blanket represents greenhouse gases.
-Ask the pupil if they are feeling cool or warm.
-Ask the rest of the class how we waste energy in school and at our homes. (e.g. leaving lights or appliances on; opening windows and having the heating on). As they make suggestions wrap the bubble wrap around the pupil. 
-Once they are wrapped up ask them how they are feeling. They should be feeling very warm!
+### KS3 Chemistry
+The carbon cycle
 
+Earth as a source of limited resources and the efficacy of recycling (e.g. link to methane and landfill sites)
 
-### What happens to the world when it heats up?
+### KS2 and 3 English
+Organise a debate on climate change where pupils can present their views, maintaining a focus on the topic and using notes where necessary, and provide reasoned justifications for their views.
 
-Get the penguin and polar bear images/cuddly toys. Ask pupils where they live.  Put the polar bear on the pupil’s head (North Pole/Arctic, lightly sellotape image to their hair with permission) and penguin at their feet (South Pole/Antarctic). What is the weather is like in the North and South Pole? (Freezing cold, icy)
-What happens to this area if the world heats up?  What happens to the polar bear and penguin? (Ice melts, loss of habitat, polar bears move into towns and eat humans! Extinction.) 
-
-We want to prevent extinction of species. The world is a strong healthy place when it has lots of life forms.
-This is called **biodiversity**.
-
-## ~ hint
-Ask pupils for their ideas on what they can do to stop wasting energy, as a way to cut greenhouse gas ‘emissions’, and so reducing global warming and climate change? 
-
-Cover the commonly known points below.
-* Turn off appliances if not in use
-* Turn lights off when leaving the room. At home check you have low energy LED light bulbs.
-* Have short showers
-* Close doors and windows to keep heat in 
-* Play outside more, and less on the Xbox 
-* Walk or cycle to school
-
-What can pupils do in school? (Turn lights and computers off... Anything else?)
-
-As they make suggestions unwrap the pupil.
-
-Once unwrapped ask the pupil if they are feeling cool or warm. They should be feeling cooler.
-## ~
+### Citizenship
+Understand more about the roles played by public institutions and voluntary groups in society, and the ways in which citizens work together to improve their communities, including opportunities to participate in school-based activities.
 
 
 ## Navigation
-## ~button /lessons/energy/global-warming/weather-patterns
-NEXT: **Global Warming** - Changing weather patterns (15 minutes)
+## ~button /lessons/energy
+BACK: Introduction to Energy
 ## ~

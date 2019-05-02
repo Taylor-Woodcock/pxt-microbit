@@ -23,5 +23,14 @@ Here are some cool tutorials to get you started with your @boardname@!
   "cardType": "tutorial",
   "label": "IoT",
   "labelClass": "orange ribbon large"
-}]
+}, {
+   "name": "Micro:bit Energy Meter",
+   "url":"/tutorials/energy-meter",
+   "description": "Sense the amount of energy an appliance uses in watts using the micro:bit's compass.",
+   "imageUrl": "/static/eis/tutorials/energy-meter/appliances.jpg",
+   "largeImageUrl": "/static/eis/tutorials/energy-meter/appliances.jpg",
+   "cardType": "tutorial",
+   "label": "Energy",
+   "labelClass": "orange ribbon large"
+ }]
 ```

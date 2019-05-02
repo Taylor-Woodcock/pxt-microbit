@@ -1,3 +1,3 @@
-# Introduction and Brief Explanation of Power (7 minutes)
+# Introduction to IoT
 
 ![Under construction](/static/eis/under-construction.jpg)

@@ -1,69 +1,54 @@
-# Different Energy Sources
+# Global warming and changing weather patterns (15 minutes)
 
 ![Placeholder](/static/eis/lessons/placeholder_640x360.png)
 
 ## Objective
 
-**This follows on from the previous lesson.**
-
-To understand the process of global warming as caused by greenhouse gases from the burning of fossil fuels and its effect on the earth’s climate and weather patterns.
-
+To find out more about global warming and how we experience changing weather patterns.
 
 ## Procedures
 
-### Fuel types, fossil fuels
+See the slide ‘Carbon dioxide levels’ – it shows carbon dioxide over thousands of years. 0=1950.  
 
-The last lesson briefly touched on greenhouse gases, with the description below. You may want to do a quick recap on the pros and cons of fossil fuels and renewables if lessons are not delivered close together.
+There’s a better image at https://climate.nasa.gov/evidence/ 
 
-'**Greenhouse gases**, just like being in a greenhouse, create a warm environment. Examples of a greenhouse gases are **carbon dioxide and methane** (Carbon dioxide is released from burning fossil fuels. Methane occurs naturally but also is produced at landfill sites (rubbish dumps) and from livestock farming).'
+Point out the huge jump to CURRENT levels, since the Industrial Revolution.
 
-Show the power station slide. Ask pupils WHAT is the problem with greenhouse gases?
+![A graph of carbon dioxide levels, indicating the industrial revolution](/static/eis/lessons/energy/global-warming/carbon-dioxide-graph.png)
 
-'**Greenhouse** gases create a warm environment because they go up into the atmosphere and wrap round the earth like a blanket.  The sun’s heat is absorbed into the dark earth surface, but it can’t all escape back out because of this blanket of gases.  The world is **heating up** as a result. This is called **global warming**.
-**Greenhouse gases stay around for a long time – some for hundreds of years – so what we do now has a big impact on the future temperature and life on this planet.'**
+### Earth temperature timeline from 20,000 BCE
 
-## ~ hint
-Show the global warming diagram slide.  
+This fun very long cartoon image shows how human activities link with changes in carbon dioxide levels – from domesticating dogs to Stonehenge to steam engines and the internet (Americanised but worth a look).
+http://www.xkcd.com/1732/
+(Links nicely to History)
 
-This is a fun way to explore it.
-
-**Resources**: Bubble wrap, space blanket or ordinary blanket.  Toy penguin and polar bear or printed A5 images of them and sellotape.
-## ~
-
-Ask for one volunteer to come to the front of the class. They are going to represent the world. The bubble wrap/blanket represents greenhouse gases.
-Ask the pupil if they are feeling cool or warm.
-Ask the rest of the class how we waste energy in school and at our homes. (e.g. leaving lights or appliances on; opening windows and having the heating on). As they make suggestions wrap the bubble wrap around the pupil. 
-Once they are wrapped up ask them how they are feeling. They should be feeling very warm!
+Look at the NASA Global Temperature page
+https://climate.nasa.gov/vital-signs/global-temperature/  
 
 
-### What happens to the world when it heats up?
+Play the bottom Time Series 1884-last year animation (2018 at time of writing). It shows how the Earth’s temperature has changed over this time.
 
-Get the penguin and polar bear images/cuddly toys. Ask pupils where they live.  Put the polar bear on the pupil’s head (North Pole/Arctic, lightly sellotape image to their hair with permission) and penguin at their feet (South Pole/Antarctic). What is the weather is like in the North and South Pole? (Freezing cold, icy)
-What happens to this area if the world heats up?  What happens to the polar bear and penguin? (Ice melts, loss of habitat, polar bears move into towns and eat humans! Extinction.) 
+In the UK **9 of the 10 warmest years on record have been since 2005** (we have 124 years of records)
+https://www.livescience.com/64700-2018-heat-record.html (6.2.19)
 
-We want to prevent extinction of species. The world is a strong healthy place when it has lots of life forms.
-This is called **biodiversity**.
+**Five of the warmest years** on record happened within the last five years (2014 to 2018).
+The average temperature since 2008 is 0.8C hotter and ‘notably wetter’ than for 1960-1990    
 
 ## ~ hint
-Ask pupils for their ideas on what they can do to stop wasting energy, as a way to cut greenhouse gas ‘emissions’, and so reducing global warming and climate change? 
+Ask pupils to get into small groups to discuss how weather patterns have changed in the UK – what changes do we experience now that could be influenced by climate change? (we can’t say that weather patterns are ‘definitely caused by’ climate change).  (e.g. hot summers, no snow in winter, changes in length of seasons, flooding)
 
-Cover the commonly known points below.
-* Turn off appliances if not in use
-* Turn lights off when leaving the room. At home check you have low energy LED light bulbs.
-* Have short showers
-* Close doors and windows to keep heat in 
-* Play outside more, and less on the Xbox 
-* Walk or cycle to school
-
-What can pupils do in school? (Turn lights and computers off... Anything else?)
-
-As they make suggestions unwrap the pupil.
-
-Once unwrapped ask the pupil if they are feeling cool or warm. They should be feeling cooler.
+Ask them to search the internet to find out about recent global changes in weather patterns, and to write this in their notebooks. What changes are expected in the future? 
+The NASA website https://climate.nasa.gov/effects/ is useful but complex.
+This gives a brief introduction https://bit.ly/2UeuALt 
+You could mention or ask them to search for:
+* Increased rain and possible flooding
+* Droughts and heat waves
+* Forest fires
+* Storms, hurricanes and other extreme weather
 ## ~
 
 
 ## Navigation
-## ~button /lessons/energy/global-warming/weather-patterns
-NEXT: **Global Warming** - Changing weather patterns (15 minutes)
+## ~button /lessons/energy/global-warming/plants-animals-humans
+NEXT: **Plants, Animals and Humans** - How they are affected by climate change (15 minutes)
 ## ~

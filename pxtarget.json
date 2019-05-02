@@ -260,7 +260,7 @@
     "appTheme": {
         "accentColor": "#00BCD4",
         "logoUrl": "https://energyinschools.co.uk/",
-        "logo": "./static/logo.portrait.white.svg",
+        "logo": "/static/logo.portrait.white.svg",
         "docsLogo": "/static/logo.square.white.svg",
         "portraitLogo": "/static/logo.square.white.svg",
         "footerLogo": "/static/logo.portrait.black.svg",

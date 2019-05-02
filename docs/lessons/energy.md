@@ -2,35 +2,23 @@
 
 ## A four part energy introduction
 
-This course is targeted to middle school grades 6-8 (ages 11-14 years).  It is also written for teachers who may not have a Computer Science background, or who may be teaching an "Intro to Computer Science" course for the first time.
-
-This course takes approximately 14 weeks to complete, spending about 1 week on each of the first 11 lessons, and 3 weeks for students to complete the final project at the end.  Of course, teachers should feel free to customize the curriculum to meet individual school or district resources and timeframe.
+This course is targeted to middle school grades 6-8 (ages 11-14 years).
 
 ![Placeholder](/static/eis/lessons/placeholder_640x360.png)
 
-### ~ hint
+## ~ hint
 **Download it**
 
 The entire lesson is also available as a download. Choose any of these formats:
+
+(Links coming soon)
 
 |||
 |-|-|
 | [![](/static/eis/lessons/icons/word-icon-24x24.png)](#) | [- **Word** - Introduction to Energy](#) |
 | [![](/static/eis/lessons/icons/adobe-pdf-file-icon-24x24.png)](#) | [- **PDF** - Introduction to Energy](#) |
 
-### ~
-
-### Lesson structure
-
-Each of the 12 lessons is structured in this format:
-* Topic Introduction
-* Unplugged Activity (30 min) - An offline game or activity that demonstrates the concept/topic
-* micro:bit Activity (45-60 min) - An activity that everyone makes on their micro:bit that teaches the skills learned in this lesson.
-* Project (60-120 min) - A prompt for an original project that each student will create to demonstrate their understanding of the skills and concepts covered in this lesson.
-* Project Mods - Examples of additional things students can do to extend the project.
-* Assessment - A project rubric and guidance for grading the project.
-* Standards - A list of CSTA K-12 Computer Science Standards and/or concepts covered by this lesson.
-
+## ~
 
 ### Lessons
 
@@ -74,16 +62,3 @@ Each of the 12 lessons is structured in this format:
     }
 ]
 ```
-
-### Lessons
-
-1.1. [Where Does Energy Come From (40-50 minutes)](/lessons/energy/where-from)
-
-
-1.2. [Global Warming and Climate Change (55 minutes)](/lessons/energy/global-warming)
-
-
-1.3. [What Appliances Use the Most Energy (40 minutes)](/lessons/energy/energy-use)
-
-
-1.4. [Generation Mix (60 minutes)](/lessons/energy/generation-mix)
